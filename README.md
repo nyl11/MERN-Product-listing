@@ -47,11 +47,11 @@ Product data is fetched from a publicly available dummy API, allowing the applic
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/nyl11/MERN-Product-listing
-   cd MERN-Product-listing
+  
  2.  Install dependencies:
 ```bash
-# Frontend
-cd frontend
+
+cd MERN-Product-listing
 npm install
 
 
