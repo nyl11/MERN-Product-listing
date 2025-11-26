@@ -48,7 +48,7 @@ Product data is fetched from a publicly available dummy API, allowing the applic
    ```bash
    git clone https://github.com/nyl11/MERN-Product-listing
    cd product-listing-page
- 2. ** Install dependencies:**
+ 2.  Install dependencies:
 ```bash
 # Frontend
 cd frontend
